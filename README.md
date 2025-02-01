@@ -12,90 +12,70 @@ I'm currently working in data engineering & software development fields. Interes
 
 ### Tech stacks
 
-<div style="display:block;white-space:normal;overflow:hidden;">
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-right:.5rem;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style=""><img src="./svg/gcpicons.com/Cloud-Storage.svg" alt="Cloud Storage icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/BigQuery.svg" alt="BigQuery icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/PubSub.svg" alt="Pub/Sub icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Cloud-Run.svg" alt="Cloud Run icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Cloud-SQL.svg" alt="Cloud SQL icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Memorystore.svg" alt="Memorystore icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Cloud-Scheduler.svg" alt="Cloud Scheduler icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Secret-Manager.svg" alt="Secret Manager icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Artifact-Registry.svg" alt="Artifact Registry icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Container-Registry.svg" alt="Container Registry icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Dataprep.svg" alt="Dataprep icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Cloud-Composer.svg" alt="Cloud Cloud-Composer icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Dataflow.svg" alt="Dataflow icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Cloud-Build.svg" alt="Cloud-Build icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Firestore.svg" alt="Firestore icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Data-Studio.svg" alt="Data-Studio icon" width="27px" height="27px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.3rem;"><img src="./svg/gcpicons.com/Stackdriver.svg" alt="Stackdriver icon" width="27px" height="27px"/></a>
-  </div>
-  <br/>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/numpy/numpy-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matplotlib/matplotlib-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/anaconda/anaconda-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jekyll/jekyll-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/homebrew/homebrew-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nixos/nixos-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pypi/pypi-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pypi/pypi-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bitbucket/bitbucket-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/openapi/openapi-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jupyter/jupyter-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pytest/pytest-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/slack/slack-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postman/postman-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-  <div style="display:inline-table;margin:.2rem;border:1.5px solid #2e2f31;padding: .6rem .8rem .2rem .8rem;border-radius:1rem;">
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:0rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xml/xml-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yaml/yaml-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-    <a href="#" target="_blank" rel="noreferrer" style="margin-left:.5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/markdown/markdown-original.svg" alt="MySQL" width="32px" height="32px"/></a>
-  </div>
-</div>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/googlecp-dark.svg" alt="Google Cloud Platform" width="32px" height="32px"/></a>
+&ensp;
+<a href="https://cloud.google.com/storage" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Storage.svg" alt="Cloud Storage icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/BigQuery.svg" alt="BigQuery icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/pubsub" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/PubSub.svg" alt="Pub/Sub icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Run.svg" alt="Cloud Run icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/sql" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-SQL.svg" alt="Cloud SQL icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/memorystore" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Memorystore.svg" alt="Memorystore icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/scheduler" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Scheduler.svg" alt="Cloud Scheduler icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/kms" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Key-Management-Service.svg" alt="Key Key-Management-Service icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/secret-manager" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Secret-Manager.svg" alt="Secret Manager icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/functions" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Functions.svg" alt="Cloud-Functions icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/artifact-registry" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Artifact-Registry.svg" alt="Artifact Registry icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/composer" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Composer.svg" alt="Cloud Cloud-Composer icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/dataflow" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Dataflow.svg" alt="Dataflow icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/build" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Cloud-Build.svg" alt="Cloud-Build icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/firestore" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Firestore.svg" alt="Firestore icon" width="27px" height="27px"/></a>
+<a href="https://lookerstudio.google.com" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Looker.svg" alt="Looker studio icon" width="27px" height="27px"/></a>
+<a href="https://cloud.google.com/stackdriver" target="_blank" rel="noreferrer"><img src="./svg/gcpicons.com/Stackdriver.svg" alt="Stackdriver icon" width="27px" height="27px"/></a>
+<br/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32px" height="32px"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="32px" height="32px"/></a>
+<a href="#https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32px" height="32px"/></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32px" height="32px"/></a>
+<a href="https://www.json.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" alt="Json" width="32px" height="32px"/></a>
+<a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/yaml-dark.svg" alt="YAML" width="32px" height="32px"/></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/markdown-dark.svg" alt="Markdow" width="32px" height="32px"/></a>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="32px" height="32px"/></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="norefferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="32px" height="32px"/></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="32px" height="32px"/></a>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="32px" height="32px"/></a>
+<a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/cicd.svg" alt="CI/CD" width="32px" height="32px"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="32px" height="32px"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="Github actions" width="32px" height="32px"/></a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" width="32px" height="32px"/></a>
+<br/>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pandas-dark.svg" alt="Pandas" width="32px" height="32px"/></a>
+<a href="https://numpy.org/doc/stable/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/numpy-dark.svg" alt="Numpy" width="32px" height="32px"/></a>
+<a href="https://matplotlib.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/matplotlib-dark.svg" alt="Matplotlib" width="32px" height="32px"/></a>
+<a href="https://seaborn.pydata.org/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/seaborn-dark.svg" alt="Seaborn" width="32px" height="32px"/></a>
+<a href="https://scikit-learn.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/scikitlearn-dark.svg" alt="Scikit-Learn" width="32px" height="32px"/></a>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="32px" height="32px"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32px" height="32px"/></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="32px" height="32px"/></a>
+<a href="http://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="32px" height="32px"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="32px" height="32px"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="32px" height="32px"/></a>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/apacheairflow-dark.svg" alt="Apache Airflow" width="32px" height="32px"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/jupyter-dark.svg" alt="Jupyter" width="32px" height="32px"/></a>
+<a href="https://pytest.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pytest-dark.svg" alt="Pytest" width="32px" height="32px"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/tableau-dark.svg" alt="Tableau" width="32px" height="32px"/></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="32px" height="32px"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="32px" height="32px"/></a>
+<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="32px" height="32px"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="32px" height="32px"/></a>
 
 ---
 
