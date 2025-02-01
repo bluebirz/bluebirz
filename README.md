@@ -4,7 +4,7 @@ My name is Yoswat Suntonarom, nickname is Bird.
 
 blog : <https://bluebirz.net>  
 email : <contact@bluebirz.net>  
-speak : 🇹🇭 ไทย 🇬🇧 Eng  🇸🇪 Sv (novis)
+speak : 🇹🇭 ไทย (native) 🇬🇧 Eng  🇸🇪 Sv (novis)
 
 I'm currently working in data engineering & software development fields. Interested in data field, programming languages, and automations.
 
