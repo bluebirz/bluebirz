@@ -42,18 +42,18 @@ I'm currently working in data engineering & software development fields. Interes
 <a href="https://www.w3schools.com/css/default.asp"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32px" height="32px"/></a>
 <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32px" height="32px"/></a>
 <a href="https://www.json.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" alt="Json" width="32px" height="32px"/></a>
-<a href="https://yaml.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/yaml-dark.svg" alt="YAML" width="32px" height="32px"/></a>
-<a href="https://www.markdownguide.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/markdown-dark.svg" alt="Markdow" width="32px" height="32px"/></a>
+<a href="https://yaml.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/yaml-light.svg" alt="YAML" width="32px" height="32px"/></a>
+<a href="https://www.markdownguide.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/markdown-light.svg" alt="Markdow" width="32px" height="32px"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="32px" height="32px"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="32px" height="32px"/></a>
 <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="32px" height="32px"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="32px" height="32px"/></a>
-<a href="https://en.wikipedia.org/wiki/CI/CD"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/cicd.svg" alt="CI/CD" width="32px" height="32px"/></a>
+<a href="https://en.wikipedia.org/wiki/CI/CD"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/cicd-light.svg" alt="CI/CD" width="32px" height="32px"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="32px" height="32px"/></a>
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="Github actions" width="32px" height="32px"/></a>
 <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" width="32px" height="32px"/></a>
 <br/>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pandas-dark.svg" alt="Pandas" width="32px" height="32px"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pandas-light.svg" alt="Pandas" width="32px" height="32px"/></a>
 <a href="https://numpy.org/doc/stable/index.html"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/numpy-dark.svg" alt="Numpy" width="32px" height="32px"/></a>
 <a href="https://matplotlib.org/stable/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/matplotlib-dark.svg" alt="Matplotlib" width="32px" height="32px"/></a>
 <a href="https://seaborn.pydata.org/#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/seaborn-dark.svg" alt="Seaborn" width="32px" height="32px"/></a>
@@ -65,9 +65,9 @@ I'm currently working in data engineering & software development fields. Interes
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="32px" height="32px"/></a>
 <a href="https://www.terraform.io/"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="32px" height="32px"/></a>
 <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/apacheairflow-dark.svg" alt="Apache Airflow" width="32px" height="32px"/></a>
-<a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/jupyter-dark.svg" alt="Jupyter" width="32px" height="32px"/></a>
+<a href="https://jupyter.org/"><img src="https://skills-icons.vercel.app/api/icons?i=jupyter&theme=dark" alt="Jupyter" width="32px" height="32px"/></a>
 <a href="https://pytest.org/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pytest-dark.svg" alt="Pytest" width="32px" height="32px"/></a>
-<a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/tableau-dark.svg" alt="Tableau" width="32px" height="32px"/></a>
+<a href="https://www.tableau.com/"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/tableau-light.svg" alt="Tableau" width="32px" height="32px"/></a>
 <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="32px" height="32px"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="32px" height="32px"/></a>
 <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="32px" height="32px"/></a>
