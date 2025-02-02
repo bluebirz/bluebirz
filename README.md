@@ -1,7 +1,5 @@
 ## Hej guys 👋
 
-<img src="./img/gif/Cat-typing.gif" align="right" width="300" alt="cat typing meme" />
-
 My name is Yoswat Suntonarom, nickname is Bird.
 
 I'm currently working in data engineering & software development fields. Interested in DataDevSecOps, programming, automations, and algorithms.
