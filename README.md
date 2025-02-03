@@ -63,6 +63,7 @@ status:
 <a href="https://pytest.org/" title="Pytest"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pytest-dark.svg" alt="Pytest" width="32px" height="32px"/></a>
 <a href="https://www.tableau.com/" title="Tableau"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/tableau-light.svg" alt="Tableau" width="32px" height="32px"/></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="32px" height="32px"/></a>
+<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="32px" height="32px"/></a>
 <a href="https://neovim.io/" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="32px" height="32px"/></a>
 
 ---
