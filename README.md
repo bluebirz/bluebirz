@@ -7,8 +7,7 @@ I'm currently working in data engineering & software development fields. Interes
 blog : <https://bluebirz.net>  
 email : <contact@bluebirz.net>  
 linkedin: <https://www.linkedin.com/in/bluebirz/>  
-speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)
-
+speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)  
 status:
 <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/learning%20dbt-FF694B?logo=dbt&logoColor=white" alt="dbt" /></a>
 <!-- <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32px" height="32px" /></a> -->
