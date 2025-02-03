@@ -9,9 +9,13 @@ email : <contact@bluebirz.net>
 linkedin: <https://www.linkedin.com/in/bluebirz/>  
 speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)
 
+currently learning:
+<a href="https://www.getdbt.com/" title="dbt"><img src="https://skills-icons.vercel.app/api/icons?i=dbt" alt="dbt" width="32px" height="32px" /></a>
+<!-- <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32px" height="32px" /></a> -->
+
 ---
 
-### Tech stacks
+### Tech stack
 
 <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/googlecp-dark.svg" alt="Google Cloud Platform" width="32px" height="32px"/></a>
 &ensp;&ensp;
