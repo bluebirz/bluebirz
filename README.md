@@ -10,6 +10,7 @@ linkedin: <https://www.linkedin.com/in/bluebirz/>
 speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)  
 status:
 <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/dbt-learning-FF694B?logo=dbt" alt="dbt" /></a>
+<a href="https://www.snowflake.com/" title="snowflake"><img src="https://img.shields.io/badge/snowflake-learning-56B9EB?logo=snowflake" alt="snowflake" /></a>
 <!-- <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32px" height="32px" /></a> -->
 
 ---
