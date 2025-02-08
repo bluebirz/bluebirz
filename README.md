@@ -19,7 +19,7 @@ status:
 
 ### Tech stack
 
-<a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/googlecp-dark.svg" alt="Google Cloud Platform" width="32px" height="32px"/></a>
+<a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://cdn.simpleicons.org/googlecloud/4285F4/ffffff" alt="Google Cloud Platform" width="32px" height="32px"/></a>
 &ensp;&ensp;
 <a href="https://cloud.google.com/storage" title="Google Cloud Storage"><img src="./img/gcpicons.com/Cloud-Storage.svg" alt="Cloud Storage icon" width="27px" height="27px"/></a>
 <a href="https://cloud.google.com/bigquery" titl="Google BigQuery"><img src="./img/gcpicons.com/BigQuery.svg" alt="BigQuery icon" width="27px" height="27px"/></a>
@@ -39,35 +39,34 @@ status:
 <a href="https://cloud.google.com/stackdriver" title="Google Cloud Stackdriver"><img src="./img/gcpicons.com/Stackdriver.svg" alt="Stackdriver icon" width="27px" height="27px"/></a>
 <a href="https://lookerstudio.google.com" title="Google Looker Studio"><img src="./img/gcpicons.com/Looker.svg" alt="Looker studio icon" width="27px" height="27px"/></a>
 <br/>
-<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="32px" height="32px"/></a>
-<a href="https://www.w3schools.com/js/default.asp" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="32px" height="32px"/></a>
-<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="32px" height="32px"/></a>
-<a href="https://www.w3schools.com/html/" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="32px" height="32px"/></a>
-<a href="https://www.w3schools.com/css/default.asp" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="32px" height="32px"/></a>
-<a href="https://go.dev/" title="Golang"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="32px" height="32px"/></a>
-<a href="https://www.json.org/" title="JSON"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/json/json-original.svg" alt="Json" width="32px" height="32px"/></a>
-<a href="https://yaml.org/" title="YAML"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/yaml-light.svg" alt="YAML" width="32px" height="32px"/></a>
-<a href="https://www.markdownguide.org/" title="Markdown"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/markdown-light.svg" alt="Markdow" width="32px" height="32px"/></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="32px" height="32px"/></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="32px" height="32px"/></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="32px" height="32px"/></a>
-<a href="https://en.wikipedia.org/wiki/CI/CD" title="CI/CD"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons%232/cicd-light.svg" alt="CI/CD" width="32px" height="32px"/></a>
-<a href="https://github.com/" title="Github"><img src="https://skillicons.dev/icons?i=github" alt="Github" width="32px" height="32px"/></a>
-<a href="https://github.com/features/actions" title="Github actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="Github actions" width="32px" height="32px"/></a>
-<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pandas-light.svg" alt="Pandas" width="32px" height="32px"/></a>
-<a href="https://www.anaconda.com/" title="Anaconda"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="32px" height="32px"/></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="32px" height="32px"/></a>
-<a href="https://flask.palletsprojects.com/en/stable/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="32px" height="32px"/></a>
-<a href="http://expressjs.com/" title="ExpressJS"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="32px" height="32px"/></a>
-<a href="https://nodejs.org/" title="NodeJS"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="32px" height="32px"/></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="32px" height="32px"/></a>
-<a href="https://airflow.apache.org/" title="Apache Airflow"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/apacheairflow-dark.svg" alt="Apache Airflow" width="32px" height="32px"/></a>
-<a href="https://jupyter.org/" title="Jupyter"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/jupyter-dark.svg" alt="Jupyter" width="32px" height="32px"/></a>
-<a href="https://pytest.org/" title="Pytest"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/pytest-dark.svg" alt="Pytest" width="32px" height="32px"/></a>
-<a href="https://www.tableau.com/" title="Tableau"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/tableau-light.svg" alt="Tableau" width="32px" height="32px"/></a>
-<a href="https://grafana.com/" title="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="32px" height="32px"/></a>
-<a href="https://code.visualstudio.com/" title="VSCode"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="32px" height="32px"/></a>
-<a href="https://neovim.io/" title="Neovim"><img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="32px" height="32px"/></a>
+<a href="https://www.python.org/" title="Python"><img src="https://cdn.simpleicons.org/python/3776AB/ffffff" alt="Python" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/js/default.asp" title="JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E/ffffff" alt="JavaScript" width="32px" height="32px"/></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.simpleicons.org/gnubash/4EAA25/ffffff" alt="Bash" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/html/" title="HTML"><img src="https://cdn.simpleicons.org/html5/E34F26/ffffff" alt="HTML" width="32px" height="32px"/></a>
+<a href="https://www.w3schools.com/css/default.asp" title="CSS"><img src="https://cdn.simpleicons.org/css/663399/ffffff" alt="CSS" width="32px" height="32px"/></a>
+<a href="https://go.dev/" title="Golang"><img src="https://cdn.simpleicons.org/go/00ADD8/ffffff" alt="Go" width="32px" height="32px"/></a>
+<a href="https://www.json.org/" title="JSON"><img src="https://cdn.simpleicons.org/json/000000/ffffff" alt="Json" width="32px" height="32px"/></a>
+<a href="https://parquet.apache.org/" title="Apache Parquet"><img src="https://cdn.simpleicons.org/apacheparquet/50ABF1/ffffff" alt="Apache Parquet" width="32px" height="32px"/></a>
+<a href="https://yaml.org/" title="YAML"><img src="https://cdn.simpleicons.org/yaml/CB171E/ffffff" alt="YAML" width="32px" height="32px"/></a>
+<a href="https://www.markdownguide.org/" title="Markdown"><img src="https://cdn.simpleicons.org/markdown/000000/ffffff" alt="Markdown" width="32px" height="32px"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1/ffffff" alt="MySQL" width="32px" height="32px"/></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.simpleicons.org/postgresql/4169E1/ffffff" alt="PostgreSQL" width="32px" height="32px"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://cdn.simpleicons.org/git/F05032/ffffff" alt="Git" width="32px" height="32px"/></a>
+<a href="https://github.com/" title="Github"><img src="https://cdn.simpleicons.org/github/181717/ffffff" alt="Github" width="32px" height="32px"/></a>
+<a href="https://github.com/features/actions" title="Github actions"><img src="https://cdn.simpleicons.org/githubactions/2088FF/ffffff" alt="Github actions" width="32px" height="32px"/></a>
+<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://cdn.simpleicons.org/pandas/150458/ffffff" alt="Pandas" width="32px" height="32px"/></a>
+<a href="https://www.anaconda.com/" title="Anaconda"><img src="https://cdn.simpleicons.org/anaconda/44A833/ffffff" alt="Anaconda" width="32px" height="32px"/></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://cdn.simpleicons.org/docker/2496ED/ffffff" alt="Docker" width="32px" height="32px"/></a>
+<a href="https://flask.palletsprojects.com/en/stable/" title="Flask"><img src="https://cdn.simpleicons.org/flask/000000/ffffff" alt="Flask" width="32px" height="32px"/></a>
+<a href="http://expressjs.com/" title="ExpressJS"><img src="https://cdn.simpleicons.org/express/000000/ffffff" alt="Express" width="32px" height="32px"/></a>
+<a href="https://nodejs.org/" title="NodeJS"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E/ffffff" alt="NodeJS" width="32px" height="32px"/></a>
+<a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.simpleicons.org/terraform/844FBA/ffffff" alt="Terraform" width="32px" height="32px"/></a>
+<a href="https://airflow.apache.org/" title="Apache Airflow"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE/ffffff" alt="Apache Airflow" width="32px" height="32px"/></a>
+<a href="https://jupyter.org/" title="Jupyter"><img src="https://cdn.simpleicons.org/jupyter/F37626/ffffff" alt="Jupyter" width="32px" height="32px"/></a>
+<a href="https://pytest.org/" title="Pytest"><img src="https://cdn.simpleicons.org/pytest/0A9EDC/ffffff" alt="Pytest" width="32px" height="32px"/></a>
+<a href="https://grafana.com/" title="Grafana"><img src="https://cdn.simpleicons.org/grafana/F46800/ffffff" alt="Grafana" width="32px" height="32px"/></a>
+<a href="https://vscodium.com" title="VSCodium"><img src="https://cdn.simpleicons.org/vscodium/2F80ED/ffffff" alt="VSCodium" width="32px" height="32px"/></a>
+<a href="https://neovim.io/" title="Neovim"><img src="https://cdn.simpleicons.org/neovim/57A143/ffffff" alt="Neovim" width="32px" height="32px"/></a>
 
 ---
 
