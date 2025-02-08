@@ -1,5 +1,7 @@
 ## Hej guys 👋
 
+<img align="right" height="30%" width="30%" alt="maplestory-cat-pet gif" src="./img/gif/maplestory-cat-pet.gif" />
+
 My name is Yoswat Suntonarom, nickname is Bird.
 
 I'm currently working in data engineering & software development fields. Interested in DataDevSecOps, programming, automations, and algorithms.
