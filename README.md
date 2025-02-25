@@ -6,13 +6,14 @@ My name is Yoswat Suntonarom, nickname is Bird.
 
 I'm currently working in data engineering & software development fields. Interested in DataDevSecOps, programming, automations, and algorithms.
 
-blog : <https://bluebirz.net>  
-email : <contact@bluebirz.net>  
-linkedin: <https://www.linkedin.com/in/bluebirz/>  
-speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)  
-status:
+Blog : <https://bluebirz.net>  
+Email : <contact@bluebirz.net>  
+LinkedIn: <https://www.linkedin.com/in/bluebirz/>  
+Curriculum Vitae: <https://bluebirz.net/cv/>  
+Speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)  
+Status:
 <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/dbt-learning-FF694B?logo=dbt" alt="dbt" /></a>
-<a href="https://www.snowflake.com/" title="snowflake"><img src="https://img.shields.io/badge/snowflake-learning-56B9EB?logo=snowflake" alt="snowflake" /></a>
+<!-- <a href="https://www.snowflake.com/" title="snowflake"><img src="https://img.shields.io/badge/snowflake-learning-56B9EB?logo=snowflake" alt="snowflake" /></a> -->
 <!-- <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="32px" height="32px" /></a> -->
 
 ---
@@ -72,12 +73,7 @@ status:
 
 ### GitHub Stats
 
-<table class="stats"><tbody><tr border="none">
-  <td width="50%" align="center">
-    <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=bluebirz&theme=dark&show_icons=true&count_private=true"><br>
-    <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=bluebirz&theme=dark">
-  </td>
-  <td width="50%" align="center">
-    <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=donut">
-  </td>
-</tr></tbody></table>
+<div align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=bluebirz&theme=dark&show_icons=true&count_private=true"><br>
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=donut">
+</div>
