@@ -1,25 +1,43 @@
-## Hej guys 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=40&pause=1000&color=2780E6&vCenter=true&width=435&height=70&lines=Hej+guys+%F0%9F%91%8B;I'm+bluebirz)](https://git.io/typing-svg)
+
+<a href="https://bluebirz.net" target="_blank">
+    <img src="https://img.shields.io/badge/blog-2780E6?style=for-the-badge&logo=safari&logoColor=white" target="_blank" />
+</a>
+<a href="mailto:contact@bluebirz.net">
+  <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=mailgun&logoColor=blue" />
+</a>
+<a href="https://linkedin.com/in/bluebirz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://bluebirz.net/cv/" target="_blank">
+  <img src="https://img.shields.io/badge/My_CV-E68D27?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
+</a>
+<br><br>
 
 <img align="right" height="30%" width="30%" alt="maplestory-cat-pet gif" src="./img/gif/maplestory-cat-pet.gif" />
 
-My name is Yoswat Suntonarom, nickname is Bird.
+Currently data engineer & software developer
+<br>
 
-I'm currently working in data engineering & software development fields. Interested in DataDevSecOps, programming, automations, and algorithms.
+Interested in:
 
-Blog : <https://bluebirz.net>  
-Email : <contact@bluebirz.net>  
-LinkedIn: <https://www.linkedin.com/in/bluebirz/>  
-Curriculum Vitae: <https://bluebirz.net/cv/>  
-Speak : 🇹🇭 ไทย (native) 🇬🇧 English  🇸🇪 Svenska (novis)  
+* DataDevSecOps
+* Programming
+* Automations
+* Algorithms
+
+Speak:
+<img src="./img/country/th.svg" alt="flag-thai" width="15px">  ไทย (native) &ensp;
+<img src="./img/country/gb.svg" alt="flag-english" width="15px">  English &ensp;
+<img src="./img/country/se.svg" alt="flag-swedish" width="15px">  Svenska (novis)
+
 Status:
 <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/learning-dbt-FF694B?logo=dbt" alt="dbt" /></a>
 <a href="http://spark.apache.org/" title="spark"><img src="https://img.shields.io/badge/learning-spark-E25A1C?logo=apachespark" alt="spark" /></a>
 <!-- <a href="https://www.snowflake.com/" title="snowflake"><img src="https://img.shields.io/badge/snowflake-learning-56B9EB?logo=snowflake" alt="snowflake" /></a> -->
 <!-- <a href="https://aws.amazon.com/" title="AWS"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40px" height="40px" /></a> -->
 
----
-
-### Tech stack
+## Tech stacks
 
 <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://skills-icons.vercel.app/api/icons?i=gcloud" alt="Google Cloud Platform" width="40px" height="40px"/></a>
 &ensp;
@@ -55,11 +73,9 @@ Status:
 <a href="https://pytest.org/" title="Pytest"><img src="https://skills-icons.vercel.app/api/icons?i=pytest" alt="Pytest" width="40px" height="40px"/></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://skills-icons.vercel.app/api/icons?i=grafana" alt="Grafana" width="40px" height="40px"/></a>
 
----
-
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=bluebirz&theme=dark&show_icons=true&count_private=true"><br>
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api/?username=bluebirz&theme=holi&show_icons=true&count_private=true&&hide=contribs&hide_rank=true">
+<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=holi&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact&exclude_repo=bluebirz.github.io,dotfiles,modComponents">
 </div>
