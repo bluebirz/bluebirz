@@ -69,6 +69,7 @@ Status:
 <a href="https://www.docker.com/" title="Docker"><img src="https://skills-icons.vercel.app/api/icons?i=docker" alt="Docker" width="40px" height="40px"/></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://skills-icons.vercel.app/api/icons?i=terraform" alt="Terraform" width="40px" height="40px"/></a>
 <a href="https://airflow.apache.org/" title="Apache Airflow"><img src="https://skills-icons.vercel.app/api/icons?i=airflow" alt="Apache Airflow" width="40px" height="40px"/></a>
+<a href="https://beam.apache.org" title="Apache Beam"><img src="./img/skills/beam_logo_3_color.svg" alt="Apache Beam" width="40px" height="40px"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://skills-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="40px" height="40px"/></a>
 <a href="https://pytest.org/" title="Pytest"><img src="https://skills-icons.vercel.app/api/icons?i=pytest" alt="Pytest" width="40px" height="40px"/></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://skills-icons.vercel.app/api/icons?i=grafana" alt="Grafana" width="40px" height="40px"/></a>
