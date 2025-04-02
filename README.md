@@ -16,12 +16,12 @@
 
 <img align="right" height="30%" width="30%" alt="maplestory-cat-pet gif" src="./img/gif/maplestory-cat-pet.gif" />
 
-Currently data engineer & software developer
+Currently data engineer in Stockholm, Sweden.
 <br>
 
 Interested in:
 
-* DataDevSecOps
+* DataDevSecsOps
 * Programming
 * Automations
 * Algorithms
@@ -66,10 +66,13 @@ Status:
 <a href="https://www.w3schools.com/css/default.asp" title="CSS"><img src="https://skills-icons.vercel.app/api/icons?i=css" alt="CSS" width="40px" height="40px"/></a>
 <a href="https://go.dev/" title="Golang"><img src="https://skills-icons.vercel.app/api/icons?i=go" alt="Go" width="40px" height="40px"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://skills-icons.vercel.app/api/icons?i=git" alt="Git" width="40px" height="40px"/></a>
+<a href="https://github.com/features/actions" title="Github actions"><img src="https://skills-icons.vercel.app/api/icons?i=githubactions" alt="Github actions" width="40px" height="40px"/></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://skills-icons.vercel.app/api/icons?i=docker" alt="Docker" width="40px" height="40px"/></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://skills-icons.vercel.app/api/icons?i=terraform" alt="Terraform" width="40px" height="40px"/></a>
 <a href="https://airflow.apache.org/" title="Apache Airflow"><img src="https://skills-icons.vercel.app/api/icons?i=airflow" alt="Apache Airflow" width="40px" height="40px"/></a>
 <a href="https://beam.apache.org" title="Apache Beam"><img src="./img/skills/beam_logo_3_color.svg" alt="Apache Beam" width="40px" height="40px"/></a>
+<a href="https://spark.apache.org" title="Apache Spark"><img src="https://skills-icons.vercel.app/api/icons?i=spark" alt="Apache Spark" width="40px" height="40px"/></a>
+<a href="https://www.getdbt.com" title="dbt"><img src="https://skills-icons.vercel.app/api/icons?i=dbt" alt="dbt" width="40px" height="40px"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://skills-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="40px" height="40px"/></a>
 <a href="https://pytest.org/" title="Pytest"><img src="https://skills-icons.vercel.app/api/icons?i=pytest" alt="Pytest" width="40px" height="40px"/></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://skills-icons.vercel.app/api/icons?i=grafana" alt="Grafana" width="40px" height="40px"/></a>
