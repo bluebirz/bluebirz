@@ -75,6 +75,7 @@ Status:
 <a href="https://beam.apache.org" title="Apache Beam"><img src="./img/skills/beam_logo_3_color.svg" alt="Apache Beam" width="40px" height="40px"/></a>
 <a href="https://www.getdbt.com" title="dbt"><img src="https://skills-icons.vercel.app/api/icons?i=dbt" alt="dbt" width="40px" height="40px"/></a>
 <a href="https://jupyter.org/" title="Jupyter"><img src="https://skills-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" width="40px" height="40px"/></a>
+<a href="https://pandas.pydata.org" title="Pandas"><img src="https://skills-icons.vercel.app/api/icons?i=pandas" alt="Pandas" width="40px" height="40px"/></a>
 <a href="https://pytest.org/" title="Pytest"><img src="https://skills-icons.vercel.app/api/icons?i=pytest" alt="Pytest" width="40px" height="40px"/></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://skills-icons.vercel.app/api/icons?i=grafana" alt="Grafana" width="40px" height="40px"/></a>
 
