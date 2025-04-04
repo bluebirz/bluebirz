@@ -21,7 +21,7 @@ Currently data engineer in Stockholm, Sweden.
 
 Interested in:
 
-* DataDevSecsOps
+* DataDevSecOps
 * Programming
 * Automations
 * Algorithms
