@@ -16,7 +16,7 @@
 
 <img align="right" height="30%" width="30%" alt="maplestory-cat-pet gif" src="./img/gif/maplestory-cat-pet.gif" />
 
-Currently data engineer in Stockholm, Sweden.
+Currently data engineer based in Stockholm, Sweden.
 <br>
 
 Interested in:
