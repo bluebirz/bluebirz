@@ -3,9 +3,6 @@
 #beam {
     rect {fill: #15191C}
 
-    @media (prefers-color-scheme: light) {
-        rect {fill: #F4F2ED}
-    }
 }
 </style>
  <defs>
