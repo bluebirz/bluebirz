@@ -9,8 +9,8 @@
 <a href="https://linkedin.com/in/bluebirz" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-<a href="https://bluebirz.net/cv/" target="_blank">
-  <img src="https://img.shields.io/badge/My_CV-E68D27?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
+<a href="https://bluebirz.net/resume/" target="_blank">
+  <img src="https://img.shields.io/badge/My_résumé-E68D27?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank" />
 </a>
 <br><br>
 
@@ -27,9 +27,9 @@ Interested in:
 * Algorithms
 
 Speak:
-<img src="./img/country/th.svg" alt="flag-thai" width="15px">  ไทย (native) &ensp;
-<img src="./img/country/gb.svg" alt="flag-english" width="15px">  English &ensp;
-<img src="./img/country/se.svg" alt="flag-swedish" width="15px">  Svenska (novis)
+<img src="./img/country/th.svg" alt="flag-thailand" width="15px">  ไทย (native) &ensp;
+<img src="./img/country/gb.svg" alt="flag-england" width="15px">  English &ensp;
+<img src="./img/country/se.svg" alt="flag-sweden" width="15px">  Svenska (novis)
 
 Status:
 <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/working_with-dbt-FF694B?logo=dbt" alt="dbt" /></a>
@@ -80,6 +80,6 @@ Status:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=bluebirz&theme=holi&show_icons=true&count_private=true&&hide=contribs&hide_rank=true">
-<img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=holi&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact&exclude_repo=bluebirz.github.io,dotfiles,modComponents">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/?username=bluebirz&theme=holi&show_icons=true&count_private=true&&hide=contribs&hide_rank=true"> -->
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=bluebirz&theme=holi&hide_border=false&no-bg=true&no-frame=true&langs_count=6&layout=compact&exclude_repo=bluebirz.github.io,dotfiles,modComponents">
 </div>
