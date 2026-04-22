@@ -32,8 +32,9 @@ Speak:
 <img src="./img/country/se.svg" alt="flag-sweden" width="15px">  Svenska (novis)
 
 Status:
-<a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/working_with-dbt-FF694B?logo=dbt" alt="dbt" /></a>
-<a href="https://airflow.apache.org" title="dbt"><img src="https://img.shields.io/badge/learning-airflow_3-017CEE?logo=apacheairflow&style=flat" alt="airflow" /></a>
+<a href="https://claude.ai/" title="Claude"><img src="https://img.shields.io/badge/learning-Claude-D97757?logo=claude" alt="Claude" /></a>
+<!-- <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/working_with-dbt-FF694B?logo=dbt" alt="dbt" /></a> -->
+<!-- <a href="https://airflow.apache.org" title="dbt"><img src="https://img.shields.io/badge/learning-airflow_3-017CEE?logo=apacheairflow&style=flat" alt="airflow" /></a> -->
 
 ## Tech stacks
 
