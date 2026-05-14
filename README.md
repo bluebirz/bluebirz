@@ -33,6 +33,7 @@ Speak:
 
 Status:
 <a href="https://claude.ai/" title="Claude"><img src="https://img.shields.io/badge/learning-Claude-D97757?logo=claude" alt="Claude" /></a>
+<a href="https://docs.ansible.com/projects/ansible/latest/index.html" title="Ansible"><img src="https://img.shields.io/badge/learning-Ansible-EE0000?logo=ansible" alt="Ansible" /></a>
 <!-- <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/working_with-dbt-FF694B?logo=dbt" alt="dbt" /></a> -->
 <!-- <a href="https://airflow.apache.org" title="dbt"><img src="https://img.shields.io/badge/learning-airflow_3-017CEE?logo=apacheairflow&style=flat" alt="airflow" /></a> -->
 
