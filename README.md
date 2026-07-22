@@ -33,7 +33,7 @@ Speak:
 
 Status:
 <a href="https://claude.ai/" title="Claude"><img src="https://img.shields.io/badge/learning-Claude-D97757?logo=claude" alt="Claude" /></a>
-<a href="https://www.prefect.io/" title="Prefect"><img src="https://img.shields.io/badge/learning-Prefect-070E10?logo=prefect" alt="Prefect" /></a>
+<a href="#" title="Python"><img src="https://img.shields.io/badge/develop_personal_projects-Python-3776AB?logo=python&labelColor=FFDB4C" alt="Python" /></a>
 <!-- <a href="https://www.getdbt.com/" title="dbt"><img src="https://img.shields.io/badge/working_with-dbt-FF694B?logo=dbt" alt="dbt" /></a> -->
 <!-- <a href="https://airflow.apache.org" title="dbt"><img src="https://img.shields.io/badge/learning-airflow_3-017CEE?logo=apacheairflow&style=flat" alt="airflow" /></a> -->
 
